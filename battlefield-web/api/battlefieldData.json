@@ -1,0 +1,175 @@
+{
+    "games": [
+        {
+            "id": "bad-company",
+            "title": "Battlefield: Bad Company",
+            "folder": "Battlefield: Bad Company",
+            "images": [
+                "/images/games/bad-company/1.jpeg",
+                "/images/games/bad-company/2.jpeg",
+                "/images/games/bad-company/3.jpeg"
+            ],
+            "resumo": "Battlefield: Bad Company é um jogo de tiro em primeira pessoa lançado em 2008. Segue a história da esquadrão 'Bad Company', um grupo de soldados desajustados enviados para as missões mais perigosas. O jogo introduziu destruição de ambientes e um modo campanha com humor.",
+            "personagens": [
+                "Preston Marlowe - Protagonista jogável",
+                "Sergeant Samuel Redford - Líder da esquadrão",
+                "Terrence Sweetwater - Especialista em tecnologia",
+                "George Gordon Haggard Jr. - Demolidor"
+            ],
+            "armamentos": [
+                "M16A2 - Rifle de assalto principal",
+                "M249 SAW - Metralhadora leve",
+                "RPG-7 - Lança-foguetes",
+                "C4 - Explosivos plásticos"
+            ],
+            "missoes": [
+                "Acapulco - Missão introdutória no México",
+                "Par for the Course - Infiltração em campo de golfe",
+                "Crash and Grab - Resgate de helicóptero abatido"
+            ],
+            "resultado": {
+                "recepcao": "8.5/10 - Críticas positivas",
+                "pontos_fortes": "Destruição de ambientes, campanha divertida, humor",
+                "pontos_fracos": "Modo multiplayer limitado comparado a outros Battlefields",
+                "vendas": "Mais de 2 milhões de cópias vendidas"
+            }
+        },
+        {
+            "id": "bad-company-2",
+            "title": "Battlefield: Bad Company 2",
+            "folder": "Battlefield bad-company 2",
+            "images": [
+                "/images/games/bad-company-2/4.jpeg",
+                "/images/games/bad-company-2/5.jpeg",
+                "/images/games/bad-company-2/6.jpeg"
+            ],
+            "resumo": "Battlefield: Bad Company 2 (2010) continua a história da esquadrão Bad Company. A campanha foca em uma conspiração da Guerra Fria envolvendo uma arma secreta. O jogo melhorou significativamente o multiplayer e a destruição de ambientes, tornando-se um dos mais amados da franquia.",
+            "personagens": [
+                "Preston Marlowe - Protagonista jogável",
+                "Sergeant Samuel Redford - Líder da esquadrão",
+                "Terrence Sweetwater - Especialista em tecnologia",
+                "George Gordon Haggard Jr. - Demolidor"
+            ],
+            "armamentos": [
+                "M416 - Rifle de assalto moderno",
+                "M60 - Metralhadora pesada",
+                "Carl Gustav - Lança-foguetes antitanque",
+                "SPAS-12 - Espingarda semiautomática"
+            ],
+            "missoes": [
+                "Operation Aurora - Prólogo na Segunda Guerra Mundial",
+                "Cold War - Infiltração nas montanhas",
+                "Sangre del Toro - Combate na selva boliviana"
+            ],
+            "resultado": {
+                "recepcao": "9/10 - Aclamado pela crítica",
+                "pontos_fortes": "Melhor multiplayer da série até então, destruição aprimorada, campanha envolvente",
+                "pontos_fracos": "Campanha relativamente curta",
+                "vendas": "Mais de 12 milhões de cópias vendidas"
+            }
+        },
+        {
+            "id": "battlefield-3",
+            "title": "Battlefield 3",
+            "folder": "Battlefield-3",
+            "images": [
+                "/images/games/battlefield-3/1.jpeg",
+                "/images/games/battlefield-3/2.jpeg",
+                "/images/games/battlefield-3/3.jpeg"
+            ],
+            "resumo": "Battlefield 3 (2011) marcou o retorno da série principal com gráficos impressionantes usando a engine Frostbite 2. A campanha segue o sargento Henry Blackburn em uma trama envolvendo terrorismo nuclear. O multiplayer trouxe de volta a escala massiva com mapas enormes e veículos variados.",
+            "personagens": [
+                "Staff Sergeant Henry 'Black' Blackburn - Protagonista principal",
+                "Sergeant Jonathan Miller - Protagonista em missões de tanque",
+                "Lieutenant Jennifer Hawkins - Protagonista em missão de caça"
+            ],
+            "armamentos": [
+                "M4A1 - Rifle de assalto padrão dos Marines",
+                "AK-74M - Rifle russo",
+                "Javelin - Sistema antitanque guiado",
+                "M320 - Lança-granadas"
+            ],
+            "missoes": [
+                "Semper Fidelis - Operação urbana no Iraque",
+                "Thunder Run - Assalto de tanques em Teerã",
+                "Going Hunting - Combate aéreo sobre o Irã"
+            ],
+            "resultado": {
+                "recepcao": "8.5/10 - Bem recebido",
+                "pontos_fortes": "Gráficos revolucionários, multiplayer épico, variedade de mapas",
+                "pontos_fracos": "Campanha linear, problemas técnicos no lançamento",
+                "vendas": "Mais de 17 milhões de cópias vendidas"
+            }
+        },
+        {
+            "id": "battlefield-4",
+            "title": "Battlefield 4",
+            "folder": "Battlefield-4",
+            "images": [
+                "/images/games/battlefield-4/1.jpeg",
+                "/images/games/battlefield-4/2.jpeg",
+                "/images/games/battlefield-4/3.jpeg"
+            ],
+            "resumo": "Battlefield 4 (2013) aprimorou a fórmula de BF3 com gráficos ainda melhores e destruição 'Levolution' - eventos massivos que mudam mapas inteiros. A campanha segue o sargento Daniel Recker em uma guerra fictícia entre EUA e China. Apesar de problemas no lançamento, tornou-se um dos mais jogados da série.",
+            "personagens": [
+                "Sergeant Daniel Recker - Protagonista jogável",
+                "Staff Sergeant William Dunn - Líder da esquadrão Tombstone",
+                "Clayton 'Pac' Pakowski - Membro da esquadrão",
+                "Kimble 'Irish' Graves - Engenheiro da esquadrão"
+            ],
+            "armamentos": [
+                "AK-12 - Rifle de assalto russo moderno",
+                "SCAR-H - Rifle de batalha",
+                "FIM-92 Stinger - Míssil antiaéreo portátil",
+                "QBZ-95-1 - Rifle chinês"
+            ],
+            "missoes": [
+                "Baku - Resgate em Azerbaijão",
+                "Shanghai - Infiltração na cidade chinesa",
+                "Tashgar - Operação na represa"
+            ],
+            "resultado": {
+                "recepcao": "8/10 - Avaliações mistas no lançamento",
+                "pontos_fortes": "Levolution, mapas dinâmicos, longevidade do multiplayer",
+                "pontos_fracos": "Muitos bugs técnicos no lançamento, campanha genérica",
+                "vendas": "Mais de 7 milhões de cópias nos primeiros meses",
+                "legado": "Recebeu atualizações por anos e mantém comunidade ativa até hoje"
+            }
+        },
+        {
+            "id": "hardline",
+            "title": "Battlefield Hardline",
+            "folder": "Battlefield-hardline",
+            "images": [
+                "/images/games/battlefield-hardline/1.jpg",
+                "/images/games/battlefield-hardline/2.jpg",
+                "/images/games/battlefield-hardline/3.jpg"
+            ],
+            "resumo": "Battlefield Hardline (2015) foi uma mudança radical - em vez de guerra militar, focou em guerra contra o crime. Desenvolvido pela Visceral Games, o jogo tem tom de série policial, com o detetive Nick Mendoza investigando corrupção. A campanha é episódica e o multiplayer trouxe modos como 'Heist' (assalto).",
+            "personagens": [
+                "Detective Nick Mendoza - Protagonista jogável",
+                "Captain Julian Dawes - Mentor de Nick",
+                "Khai Minh Dao - Parceira hacker de Nick",
+                "Tyson Latchford - Ex-parceiro corrupto"
+            ],
+            "armamentos": [
+                "870P Magnum - Espingarda policial",
+                "M16A3 - Rifle de assalto tático",
+                "T62 CEW - Taser (arma não-letal)",
+                "Armsel Striker - Espingarda rotativa"
+            ],
+            "missoes": [
+                "Back to School - Investigação de drogas em escola",
+                "Gauntlet - Fuga da polícia corrupta",
+                "Legacy - Confronto final"
+            ],
+            "resultado": {
+                "recepcao": "7/10 - Recepção mista",
+                "pontos_fortes": "Campanha episódica bem estruturada, variedade de modos multiplayer",
+                "pontos_fracos": "Não parece um Battlefield tradicional, comunidade multiplayer pequena",
+                "vendas": "Vendas abaixo das expectativas comparado a outros Battlefields",
+                "curiosidade": "Foi o último jogo da Visceral Games antes do fechamento do estúdio"
+            }
+        }
+    ]
+}
