@@ -12,6 +12,8 @@ Battlefield Archive é uma aplicação web que reimagina a navegação de conte�
 
 **[Live Demo](https://battlefiled.vercel.app)** | **[Reportar Bug](https://github.com/PixelPionee/Battlefiled/issues)**
 
+> Aplicação hospedada na Vercel com deploy contínuo automatizado via GitHub
+
 ---
 
 ## Stack Tecnológica
